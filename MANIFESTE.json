@@ -1,0 +1,272 @@
+{
+  "version": "1.13.0-rc1",
+  "type": "mise à jour cumulative depuis 1.9, 1.10, 1.11 ou 1.12",
+  "source_archive": "workman-sourcing-ovh-v1.9-rc1.zip",
+  "source_archive_sha256": "37326ac65ec6947130c335d32d03f75891c63823c147147a820f39d4d5c9e845",
+  "files": [
+    {
+      "path": "VERSION",
+      "sha256_1.9": "f56b67fd97c7c2f966f81f264c470a872f5db90fd951e1af62fc1f875ce31e1f",
+      "sha256_1.10": "126ed25391af7e501113119b951b6814412fb4c916348e38fbe6fca5347bded4",
+      "sha256_1.11": "0774c5ffbdca91ae6614daf937b6109168373a5689f9ff161d04be4e97dcb774",
+      "sha256_1.12": "971f061e7656f9ca6a030bbab76838a6bb958fd377ce942237ec8696f79ac7a3",
+      "sha256_1.13": "1367fd65a55d81dbde5f96a9427933a3554805e3c8eedb5590ac17dbe46181d2"
+    },
+    {
+      "path": "sql/09-crm-workwear.sql",
+      "sha256_1.9": null,
+      "sha256_1.10": "41e50763b976e0585fb4f1e488ae54295e0440e223da50e424f9418e14918878",
+      "sha256_1.11": "41e50763b976e0585fb4f1e488ae54295e0440e223da50e424f9418e14918878",
+      "sha256_1.12": "41e50763b976e0585fb4f1e488ae54295e0440e223da50e424f9418e14918878",
+      "sha256_1.13": "41e50763b976e0585fb4f1e488ae54295e0440e223da50e424f9418e14918878"
+    },
+    {
+      "path": "sql/10-devis-ia-portail.sql",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": "448cb91cbba48ba0503eae16bedbb1a3adfe217ca67af1305f0fb82120c7e125",
+      "sha256_1.12": "448cb91cbba48ba0503eae16bedbb1a3adfe217ca67af1305f0fb82120c7e125",
+      "sha256_1.13": "448cb91cbba48ba0503eae16bedbb1a3adfe217ca67af1305f0fb82120c7e125"
+    },
+    {
+      "path": "sql/11-pilotage-insight.sql",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": "5a86fdc3bfbd4ea2c25d62657e6583f7493d5659c69fc09ef4e615fc60582eb4",
+      "sha256_1.13": "5a86fdc3bfbd4ea2c25d62657e6583f7493d5659c69fc09ef4e615fc60582eb4"
+    },
+    {
+      "path": "sql/12-echantillons.sql",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": null,
+      "sha256_1.13": "3b98d8c074e7d208c651bb723936e6d067e159ae5327a17a347d1f60c06bd820"
+    },
+    {
+      "path": "www/api/b2b-routes.php",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": "e07e5fc77655e86e4eb52ebba3b99348c771ace72e506fe6ff43864a2d110637",
+      "sha256_1.12": "e07e5fc77655e86e4eb52ebba3b99348c771ace72e506fe6ff43864a2d110637",
+      "sha256_1.13": "1d5cb3fc707aeaaabfab5a9d7414c4f0dac163a1a837f2b64b19cda90d42db57"
+    },
+    {
+      "path": "www/api/b2b.php",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": "ebe4e2ecfb53af92dcb8d83570351c9d2df3a8ff30997e36c65b97065c2f2396",
+      "sha256_1.12": "d3bba442e7e8d9ec37eeb06ee374742cf65b30ba4531c8da7c011a47c2b33c3b",
+      "sha256_1.13": "4ebbb280eed47a56e8c135f8fb4e03fa0f41ba4992a648b8c2e96aafcbdaf701"
+    },
+    {
+      "path": "www/api/commerce-routes.php",
+      "sha256_1.9": "f86780488fc60535a5314707440f03b8a5467b7244ef7a1f26d4081a16f4de7a",
+      "sha256_1.10": "57e8bfbe32756b26cf87d880b1378518f7470cf82c37703583460b657a143cec",
+      "sha256_1.11": "d0a65b86c4d594f52c742217d84ad32f2e2df1a3e6a1c9661d074806fa500160",
+      "sha256_1.12": "d0a65b86c4d594f52c742217d84ad32f2e2df1a3e6a1c9661d074806fa500160",
+      "sha256_1.13": "d0a65b86c4d594f52c742217d84ad32f2e2df1a3e6a1c9661d074806fa500160"
+    },
+    {
+      "path": "www/api/commerce.php",
+      "sha256_1.9": "38d9a28a2126a7cfc2663e044f71d2f55fcfac8fc0395799d5add46e47004aa2",
+      "sha256_1.10": "38d9a28a2126a7cfc2663e044f71d2f55fcfac8fc0395799d5add46e47004aa2",
+      "sha256_1.11": "dbaf3b67d43cc574d5519b33c184cbefd7ec22f1679b0d2fec163fe78b6d063c",
+      "sha256_1.12": "dbaf3b67d43cc574d5519b33c184cbefd7ec22f1679b0d2fec163fe78b6d063c",
+      "sha256_1.13": "dbaf3b67d43cc574d5519b33c184cbefd7ec22f1679b0d2fec163fe78b6d063c"
+    },
+    {
+      "path": "www/api/crm-routes.php",
+      "sha256_1.9": null,
+      "sha256_1.10": "d262c9f8fa4a7ffd4135704bbe20549fbf51c78186ca925307f1bd70ebfc8a2c",
+      "sha256_1.11": "adbfd1ba382ad0b504e0929c6eebe315959e26ed3149a67b7c879bb6d5840ba1",
+      "sha256_1.12": "adbfd1ba382ad0b504e0929c6eebe315959e26ed3149a67b7c879bb6d5840ba1",
+      "sha256_1.13": "adbfd1ba382ad0b504e0929c6eebe315959e26ed3149a67b7c879bb6d5840ba1"
+    },
+    {
+      "path": "www/api/index.php",
+      "sha256_1.9": "560f4e8632ec186f418e66ec95dc7bfe4da4fed061ae8573ccc7e88d71b432f4",
+      "sha256_1.10": "0371a9ad68556d9042e3b9647169fc9ed3c6785fce63b39f391f67fd003767de",
+      "sha256_1.11": "e5d68f4eb89271018795198214ff3b3208f3aa4d99134e50142b3cbbc79d14f2",
+      "sha256_1.12": "827afc2a1df95dfd69940903f2c63b97c4d7bb95f9385aca1090ccd13f15b043",
+      "sha256_1.13": "627b683d0688f4737a10d171c181244eb04f462b453ab5ccc6514bb7e90dec6d"
+    },
+    {
+      "path": "www/api/pilot-routes.php",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": "2ef3f81452d8f99fcbd013193f899d08c68a5c6544881afcaf935f554b0b12bd",
+      "sha256_1.13": "6f6841dc7230457701b8e36fd04e2a9494d1b6e5454bd76bb0ad245188b98a91"
+    },
+    {
+      "path": "www/api/pilot.php",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": "47103d3c2ac03fab79d482d0d7ca89ff1bb6be7b21ce37cbd7513608d59edc9c",
+      "sha256_1.13": "f42babba4522c8d6d9279051697f97812992db436daf2cde7fb2e1129f1a4428"
+    },
+    {
+      "path": "www/api/portal.php",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": "b4dd5ccfc37da8fb1212013b50776f0185c47c83d77b48e91bfbf285a938efd8",
+      "sha256_1.12": "b4dd5ccfc37da8fb1212013b50776f0185c47c83d77b48e91bfbf285a938efd8",
+      "sha256_1.13": "4ca51ff492c6c34a43f39b7162016fafbd77400a514b66a4b35b61259b7c8918"
+    },
+    {
+      "path": "www/api/productivity-routes.php",
+      "sha256_1.9": "24ccefff9cff51a84ca68edac51b9c078269c5bd305db0a9b92080340a46f8d3",
+      "sha256_1.10": "5f8dc5f854e1903c9d9e25b9c23ac31393c48daeb5a9621df569c6d513315207",
+      "sha256_1.11": "ade7ce35a26d195d9c949687f0dc821187d72d146c584ba5d425bf72de515859",
+      "sha256_1.12": "ade7ce35a26d195d9c949687f0dc821187d72d146c584ba5d425bf72de515859",
+      "sha256_1.13": "ade7ce35a26d195d9c949687f0dc821187d72d146c584ba5d425bf72de515859"
+    },
+    {
+      "path": "www/api/quote-ai.php",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": "ad4c2af849c68217e360713bf46a77d15c205e9035adf5de96da90f95c6d5c38",
+      "sha256_1.12": "ad4c2af849c68217e360713bf46a77d15c205e9035adf5de96da90f95c6d5c38",
+      "sha256_1.13": "ad4c2af849c68217e360713bf46a77d15c205e9035adf5de96da90f95c6d5c38"
+    },
+    {
+      "path": "www/api/sample-routes.php",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": null,
+      "sha256_1.13": "174ca45a3f3ca1b046da5870776858a510cd94459389fc9a01a64fc60564eeb1"
+    },
+    {
+      "path": "www/api/samples.php",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": null,
+      "sha256_1.13": "5ea28905462a4d8a9c7938c07b2a3d6f1caae201b564e66a097d146ae716588f"
+    },
+    {
+      "path": "www/assets/WORLD-MAP-LICENSE.txt",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": "46175c5631259fc5b9effd459a9e58362a52542222adc8f603388a5d0438ed6e",
+      "sha256_1.13": "46175c5631259fc5b9effd459a9e58362a52542222adc8f603388a5d0438ed6e"
+    },
+    {
+      "path": "www/assets/app.css",
+      "sha256_1.9": "5da4247525900a163109b36164584ad4b4e3759884094eefe6b18fb5a538d9af",
+      "sha256_1.10": "5a7ebfe3e57be4df10c6957019fb3b6efc971390a61c71faa7034346f67c81c3",
+      "sha256_1.11": "5a7ebfe3e57be4df10c6957019fb3b6efc971390a61c71faa7034346f67c81c3",
+      "sha256_1.12": "5a7ebfe3e57be4df10c6957019fb3b6efc971390a61c71faa7034346f67c81c3",
+      "sha256_1.13": "5a7ebfe3e57be4df10c6957019fb3b6efc971390a61c71faa7034346f67c81c3"
+    },
+    {
+      "path": "www/assets/app.js",
+      "sha256_1.9": "933e8496301989d8b3ef6393334b90dc7409c80ab99191e20466a82f1881a336",
+      "sha256_1.10": "3f6b0f87758d082d56620e678dfd91fc121e0053d3d79586d76dffd15aa6952b",
+      "sha256_1.11": "22bc0789c54a9d0a9e4138700c557985743a49c1bdd4ece615c477ea43dbb73f",
+      "sha256_1.12": "d40cc6060525905704d3951a45c903725c4b359f279fe6d3b404ba0c3e9a7c03",
+      "sha256_1.13": "720817c25b4eabe1bd01a3222428bf0382c97648c88ad08daa652f1fc879eafd"
+    },
+    {
+      "path": "www/assets/commerce.js",
+      "sha256_1.9": "c4a253eaa3d50220b6e2652ce4e32ee40a4e758fdb0eff93451cef3bee16c34f",
+      "sha256_1.10": "7a8c406f510a895a6c7d02baf51e54b654f30d0c135f11b73a88c20d15e952e6",
+      "sha256_1.11": "1164d70b98e24cc005ea6983062fa9ba2163b3ea39275deaa014ec71f7f8ce72",
+      "sha256_1.12": "1164d70b98e24cc005ea6983062fa9ba2163b3ea39275deaa014ec71f7f8ce72",
+      "sha256_1.13": "1164d70b98e24cc005ea6983062fa9ba2163b3ea39275deaa014ec71f7f8ce72"
+    },
+    {
+      "path": "www/assets/crm.js",
+      "sha256_1.9": null,
+      "sha256_1.10": "9061f8624fc2e9f0fc48234a0badb3dd0f1cafd0b5bfbc380487761ded2190ba",
+      "sha256_1.11": "9061f8624fc2e9f0fc48234a0badb3dd0f1cafd0b5bfbc380487761ded2190ba",
+      "sha256_1.12": "9061f8624fc2e9f0fc48234a0badb3dd0f1cafd0b5bfbc380487761ded2190ba",
+      "sha256_1.13": "9061f8624fc2e9f0fc48234a0badb3dd0f1cafd0b5bfbc380487761ded2190ba"
+    },
+    {
+      "path": "www/assets/module67.js",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": "b6cfe73f56234c78f5b93e29297d079e736d8c72d1e6f56ec7062798b3cb1de1",
+      "sha256_1.12": "b6cfe73f56234c78f5b93e29297d079e736d8c72d1e6f56ec7062798b3cb1de1",
+      "sha256_1.13": "b08414a14a2b20dd24036e98fd22082a68b7b2aca3fd89418d6109b1ac599dae"
+    },
+    {
+      "path": "www/assets/pilot.css",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": "7f0c88f801e40a424a3bd2079ec64c85ce65aa97c219433672420f56af21eb28",
+      "sha256_1.13": "7f0c88f801e40a424a3bd2079ec64c85ce65aa97c219433672420f56af21eb28"
+    },
+    {
+      "path": "www/assets/pilot.js",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": "1317b0a04b452fd5d30ff9b3fe8bc9181ea6ccb1e127ba32f0bd25a78ac4aaac",
+      "sha256_1.13": "6d0b1db108851fb1eda8db509ba9bbc3c236254617749621f4f5fd60deea50f2"
+    },
+    {
+      "path": "www/assets/portal.css",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": "324e1b9427a4205a9eea90ccb6f3716cd230e285f03418dda09627bad6f45f06",
+      "sha256_1.12": "324e1b9427a4205a9eea90ccb6f3716cd230e285f03418dda09627bad6f45f06",
+      "sha256_1.13": "324e1b9427a4205a9eea90ccb6f3716cd230e285f03418dda09627bad6f45f06"
+    },
+    {
+      "path": "www/assets/portal.js",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": "4e850664c52950571633d498398bf8937fd467fc12dfebc325434c2a56a12c63",
+      "sha256_1.12": "4e850664c52950571633d498398bf8937fd467fc12dfebc325434c2a56a12c63",
+      "sha256_1.13": "e04c36f795f15035a2e3bcdb6691d564adafd4efb7eb49144745c0280b5e40fd"
+    },
+    {
+      "path": "www/assets/samples.css",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": null,
+      "sha256_1.13": "61366a8d723284c1b971d379fe1bff2bec36850d883edd193ded3c4c1054a34c"
+    },
+    {
+      "path": "www/assets/samples.js",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": null,
+      "sha256_1.13": "03f8b0dffd3e6dcf84e490dc56c121931a210298aaae0a739e3be0a2fb93d09d"
+    },
+    {
+      "path": "www/assets/world-lowres.json",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": null,
+      "sha256_1.12": "ac02e428b2d051c5777891bffb932fc995e7b8cc3ee551794c52475ca768f2f7",
+      "sha256_1.13": "ac02e428b2d051c5777891bffb932fc995e7b8cc3ee551794c52475ca768f2f7"
+    },
+    {
+      "path": "www/index.html",
+      "sha256_1.9": "0ad6c70bc77cff2f9203304bc9fa4e8c415b29c7187c63e065ab12750cf9fde6",
+      "sha256_1.10": "511750142cacb89fe3dcf33ff67e07caacb21bd45e98397547697d6353b58461",
+      "sha256_1.11": "1e6f96b615c5c172c8ad8d40b7cebab8c3b2aa20263162d103ef4b0f159bb250",
+      "sha256_1.12": "e86cbaf1ae8052ea121d5792e2e5fd070cf1419a97a7e847de2cb09bd72b4002",
+      "sha256_1.13": "f44ebddd25211641a030355760ce72d2b0fb2eaab994eaf8af04bae13ad6fc37"
+    },
+    {
+      "path": "www/portal.html",
+      "sha256_1.9": null,
+      "sha256_1.10": null,
+      "sha256_1.11": "f8b5a192bfafd38818b5ecfee7448c6ee25dd1cb9655c23f0b9273e230efcc95",
+      "sha256_1.12": "f8b5a192bfafd38818b5ecfee7448c6ee25dd1cb9655c23f0b9273e230efcc95",
+      "sha256_1.13": "92650c0020ea2ec2d47c0864aefc41290c05a548c2552e5e8beb2bc7a4353eb9"
+    }
+  ]
+}
